@@ -1,0 +1,13 @@
+# EW example infos, dependencies, build results & settings
+*.ewsample
+ExampleInfo.ENU.xml
+*.dep
+Debug/
+settings/
+*.crun
+# emacs temp & backup 
+*~
+.#*
+ve310/
+ve39*/
+__pycache__/
